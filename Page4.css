@@ -2,3 +2,29 @@
     font-family: Arial;
     font-size: 12px;
 }
+
+a {
+    margin: 10px;
+}
+
+.Liens {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+body {
+    background-image: url(59591885-motif-de-cinéma-seamless-peut-être-utilisé-pour-le-papier-peint-fond-site-papier-d-emballage.jpg);
+    background-position: center;
+}
+
+.couleur {
+    color: black;
+}
+
+#button {
+    background-color: blue;
+}
+
+.formulaire {
+    font-size: 30px;
+}

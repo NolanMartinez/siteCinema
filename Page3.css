@@ -1,8 +1,5 @@
-.couverture {
-    padding: 120px;
-    background-image: url(Affiche_du_film.webp);
-    background-size: 1400px;
-    background-position: bottom;
+a {
+    margin: 10px;
 }
 
 .Liens {
@@ -10,23 +7,40 @@
     font-size: 14px;
 }
 
-a {
-    margin: 10px;
+.traitgauche {
+    border-left: 1px solid black;
+    padding-left: 5px;
+    margin-left: 50px;
 }
 
-p {
-    font-family: Arial;
-    font-size: 30px;
+td {
+    border: 1px solid white;
 }
 
 li {
     font-family: Arial;
-    font-size: 22px;
+    font-size: 12px;
 }
 
-.image {
+.titre {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.p {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.tarifs {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+body {
     background-image: url(59591885-motif-de-cinéma-seamless-peut-être-utilisé-pour-le-papier-peint-fond-site-papier-d-emballage.jpg);
     background-position: right;
+    background-size:
 }
 
 .couleur {

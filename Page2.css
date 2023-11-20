@@ -1,0 +1,54 @@
+body {
+    background-color: bisque;
+    background-image: url(59591885-motif-de-cinéma-seamless-peut-être-utilisé-pour-le-papier-peint-fond-site-papier-d-emballage.jpg);
+    background-position: top;
+}
+
+h1 {
+    position: absolute;
+    font-size: 35px;
+    bottom: 450;
+    left: 100px;
+}
+
+p {
+    position: absolute;
+    font-size: 20px;
+    left: 50px;
+    bottom: 282px;
+    color: rgb(34, 30, 30)
+}
+
+
+
+
+
+
+.image1 {
+    position: absolute;
+    bottom: 80;
+    left: 150;
+}
+
+.fiche-technique {
+    position: absolute;
+    font-size: 19px;
+    bottom: 250;
+    left: 800;
+}
+
+.image2 {
+    position: absolute;
+    bottom: 30;
+    left: 900;
+}
+
+a {
+    margin: 10px;
+}
+
+.liens {
+    font-family: Arial;
+    font-size: 14px;
+    color: black;
+}
